@@ -1,0 +1,7 @@
+{
+  "name": "pruebaJsonServer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
